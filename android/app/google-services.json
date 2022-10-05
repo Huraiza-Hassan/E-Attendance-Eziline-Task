@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "851417077718",
+    "project_id": "e-attendance-app",
+    "storage_bucket": "e-attendance-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851417077718:android:b2ce28b0e3727f96baf677",
+        "android_client_info": {
+          "package_name": "com.example.e_attendence_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "851417077718-i8vifcj80a66a97piqs1auue5enelcir.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.e_attendence_system",
+            "certificate_hash": "b65d214f854c32b243d42d406eb0fa40b2a67b7f"
+          }
+        },
+        {
+          "client_id": "851417077718-umr6klc6tf3hmqupngqi3gjotaqs9tkr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTZwkK1cpyJJ1YoHbUqeYaAe6CrZlB5t8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "851417077718-umr6klc6tf3hmqupngqi3gjotaqs9tkr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
