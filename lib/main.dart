@@ -23,6 +23,7 @@ class MyApp extends StatelessWidget {
       builder: (context, child) {
         //GetMaterialApp for getx state management package
         return GetMaterialApp(
+          //getting pages list
           getPages: Routes.pagesList,
           debugShowCheckedModeBanner: true,
           title: 'E Attendance',
