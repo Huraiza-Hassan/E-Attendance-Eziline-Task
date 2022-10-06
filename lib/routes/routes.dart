@@ -5,7 +5,6 @@ import 'package:e_attendence_system/screens/courses_screens/assigned_course_teac
 import 'package:e_attendence_system/screens/courses_screens/create_course_screen.dart';
 import 'package:e_attendence_system/screens/courses_screens/display_teachers.dart';
 import 'package:e_attendence_system/screens/courses_screens/view_course_info_screen.dart';
-import 'package:e_attendence_system/screens/home_screen.dart';
 import 'package:e_attendence_system/screens/home_screens/admin_home_screen/admin_home_screen.dart';
 import 'package:e_attendence_system/screens/home_screens/cont_exam_home_screen/cont_exam_home_screen.dart';
 import 'package:e_attendence_system/screens/home_screens/faculty_member_home_screen/enrolled_students_screen.dart';
